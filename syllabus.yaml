@@ -1,11 +1,11 @@
 ---
-title: Introduction to Things
-subtitle: Undergrads Love This Course
-author: Professor X  
+title: The Way of Francis and Clare
+subtitle: 
+author: Prof. Andrew Gertner Belfield  
 course-info: |
     Professor X  
-    <profx@university.edu>  
-    Office Hours: Backward Deep and Abysm of Time
+    <belfield@bc.edu>  
+    Office Hours: TBD
 custom-title: false
 mainfont: Garamond Premier Pro
 mainfontoptions:
@@ -20,15 +20,15 @@ biblatex: true
 biblatex-chicago: true
 bibliography: ../sources.bib
 bibcols: 2
-bibnote: Ask me how I feel about the textbook publishing industry.
+bibnote: Other texts will be available via Moodle.
 custom-bib: false
 chicago-ellipses: true
 thanks: |
     I thank the last five people who taught this course for their syllabuses.
 headers: true
 olhead: \textsc{th101}
-ochead: University of Stuff
-orhead: Fall 2016
+ochead: St. Bonaventure University
+orhead: Fall 2021
 ocfoot: \thepage
 orfoot: Updated \today
 ...
